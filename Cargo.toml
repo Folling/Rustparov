@@ -1,0 +1,8 @@
+[package]
+name = "rustparov"
+version = "0.1.0"
+authors = ["Folling <mail@folling.io>"]
+
+[dependencies]
+serenity = "0.4"
+exprust = { git = "https://github.com/Folling/exprust" }
